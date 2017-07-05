@@ -1,0 +1,4 @@
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\Books_MVVM.MainProgram\Books(MVVM).DataAccess\bin\Debug\Books(MVVM).DataAccess.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\Books_MVVM.MainProgram\Books(MVVM).DataAccess\bin\Debug\Books(MVVM).DataAccess.pdb
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\Books_MVVM.MainProgram\Books(MVVM).DataAccess\obj\Debug\Books(MVVM).DataAccess.dll
+C:\Users\Антон\Documents\Visual Studio 2015\Projects\Books_MVVM.MainProgram\Books(MVVM).DataAccess\obj\Debug\Books(MVVM).DataAccess.pdb

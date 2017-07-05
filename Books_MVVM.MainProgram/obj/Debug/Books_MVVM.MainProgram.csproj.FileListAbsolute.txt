@@ -1,0 +1,16 @@
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\bin\Debug\Books_MVVM.MainProgram.exe.config
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\MainWindow.g.cs
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\App.g.cs
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram_MarkupCompile.cache
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram_MarkupCompile.lref
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\bin\Debug\Books_MVVM.MainProgram.exe
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\bin\Debug\Books_MVVM.MainProgram.pdb
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\bin\Debug\Books(MVVM).DataAccess.dll
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\bin\Debug\Books(MVVM).DataAccess.pdb
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\MainWindow.baml
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram.g.resources
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram.Properties.Resources.resources
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram.csproj.GenerateResource.Cache
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram.exe
+c:\users\антон\documents\visual studio 2015\Projects\Books_MVVM.MainProgram\Books_MVVM.MainProgram\obj\Debug\Books_MVVM.MainProgram.pdb
